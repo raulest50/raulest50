@@ -1,8 +1,5 @@
 ## Hi 👋 welcome, my name is Raul E. Alzate A.
 
-
-I'm an Electronic and Telecomunications Engineer. Currently i'm doing a master degree in Physics Engineering at Universidad Nacional De Colombia.
-
 ### Skills & Experience
 ---
 
