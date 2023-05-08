@@ -1,6 +1,6 @@
-## Hi 👋 welcome, my name is Raul E. Alzate A.
+## Hi 👋 welcome, I'm an Electronic engineer and Software Developer.
 
-### Skills & Experience
+### Skills
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width='70' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width='70'/><img src="https://miro.medium.com/max/400/1*9tVpRN7cCovFMavU4PVg2w.png" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width='70' />
