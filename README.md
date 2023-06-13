@@ -6,10 +6,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width='70' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width='70'/><img src="https://miro.medium.com/max/400/1*9tVpRN7cCovFMavU4PVg2w.png" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width='70' />
 
 ---
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width='70' />
-
----
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width='70' />
 
@@ -22,7 +18,11 @@
 
 ---
 
-<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?" width='70' /><img src="https://static.thenounproject.com/png/926776-200.png" width='70'/><img src="https://static.wixstatic.com/media/3b5532_3ec15bd2df62436081f0798f36592d89~mv2.png/v1/fill/w_366,h_366,al_c/3b5532_3ec15bd2df62436081f0798f36592d89~mv2.png" width='70'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='70'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width='70'/>
+
+---
+
+<img src="https://www.kojac.nl/tailwind/images/embedded_systems/fpga.png" width='70' /><img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" width='70'/><img src="https://static.wixstatic.com/media/3b5532_3ec15bd2df62436081f0798f36592d89~mv2.png/v1/fill/w_366,h_366,al_c/3b5532_3ec15bd2df62436081f0798f36592d89~mv2.png" width='70'/>
 
 ---
 
