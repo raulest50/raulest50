@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://www.kojac.nl/tailwind/images/embedded_systems/fpga.png" width='70' /><img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" width='70'/><img src="https://raw.githubusercontent.com/hmaarrfk/useful-icons/master/vivado-icons/vivado.png" width='70'/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOld_hU0HoDg0F4-L7uHmCsl-P_jXNlUb2OyPPNP3viw&s" width='170'/>
+<img src="https://www.kojac.nl/tailwind/images/embedded_systems/fpga.png" width='70' /><img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" width='70'/><img src="https://raw.githubusercontent.com/hmaarrfk/useful-icons/master/vivado-icons/vivado.png" width='70'/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOld_hU0HoDg0F4-L7uHmCsl-P_jXNlUb2OyPPNP3viw&s" width='170'/><img src="https://repository-images.githubusercontent.com/49994966/2f735400-686e-11ea-800f-46bc46c5ff99" width='170'/>
 
 ---
 
