@@ -1,4 +1,4 @@
-## Electronic engineer and Software Developer.
+## Electronic Engineer and Software Developer.
 
 ### Skills
 ---
