@@ -1,4 +1,4 @@
-## Hi 👋 welcome, I'm an Electronic engineer and Software Developer.
+## Electronic engineer and Software Developer.
 
 ### Skills
 ---
